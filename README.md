@@ -6,5 +6,5 @@ A MERN app to demonstrate a blockchain network
 * npm i
 * Enter `npm run dev` in terminal
 
-## Demo
+## Site Demo
 [BitChain](https://bitblockchain.herokuapp.com/)
