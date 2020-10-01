@@ -7,4 +7,6 @@ A MERN app to demonstrate a blockchain network
 * Enter `npm run dev` in terminal
 
 ## Demo
-[BitChain](https://bitblockchain.herokuapp.com/)
+* run both separately and send the amount
+[BitChain1](https://bitblockchain.herokuapp.com/)
+[BitChain2](https://blockofchain.herokuapp.com/)
